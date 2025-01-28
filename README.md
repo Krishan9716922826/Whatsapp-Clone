@@ -113,21 +113,4 @@ You can run this application either using Docker or traditional npm setup.
 <img src='./images/user-profile.png' >
 </p>
 
-<!-- CONTACT -->
 
-## Contact
-
-<a target="_blank" href="https://www.linkedin.com/in/vinayak-chittora/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a target="_blank" href="mailto:vinayakchittora31@gmail.com">
- <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br>
-<br>
-<br>
-
-<p align='center'>
-(If you liked the project, give it star 😃)
-</p>
